@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: wheat;
+}
+#main{
+    background:transparent;
+    color: black;
+    text-align: center;
+}
+#detail{
+    background-color: rgb(43, 43, 43);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn{
+    position: relative;
+    left: 800px;
+}
